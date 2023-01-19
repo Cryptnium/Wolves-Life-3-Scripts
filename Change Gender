@@ -1,0 +1,8 @@
+--[[
+In gender name, put a gender's name (Options: Female, Male)
+--]]
+local args = {
+    [1] = "GENDER_NAME"
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
