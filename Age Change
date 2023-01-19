@@ -1,0 +1,9 @@
+--[[
+In age name, put in the age's name (Options: Adult, Pup, Newborn)
+--]]
+local args = {
+    [1] = "Age",
+    [2] = "AGE_NAME"
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
