@@ -1,0 +1,11 @@
+--[[
+Rejoin for coins to register
+You may also give yourself negative amounts (Not recommended)
+--]]
+local args = {
+    [1] = "Coins",
+    [2] = math.huge,
+    [3] = "\226\135\154\225\155\157i\220\176\219\173\230\155\157u"
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
