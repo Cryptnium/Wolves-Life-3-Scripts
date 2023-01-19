@@ -1,0 +1,11 @@
+--[[
+In file number, put the files number (Ex: 2)
+--]]
+local args = {
+    [1] = "SaveFile1Colours",
+    [2] = "FILE_NUMBER",
+    [3] = "\195\137,\203\1561\194\181\195\154+t\226\149\165\195\1304\194\180\195\134\195\138\226\134\168\226\149" ..
+        "\147"
+}
+
+game:GetService("ReplicatedStorage").Save:InvokeServer(unpack(args))
