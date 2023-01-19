@@ -1,0 +1,14 @@
+--[[
+In material name, put a material's name (Ex: Neon)
+In part name, put a part's name (Ex: LeftArm)
+--]]
+local args = {
+    [1] = "Material",
+    [2] = "MATERIAL_NAME", --
+    [3] = {
+        [1] = "PART_NAME", --Make sure to add a , after each part.
+        [2] = "PART_NAME",
+    }
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
