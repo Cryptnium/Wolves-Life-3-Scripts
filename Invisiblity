@@ -1,0 +1,525 @@
+--Invisibility
+(Removes accessories aswell)
+--[[
+If you want, edit the script however you want.
+The number = value of transparency. (May be set as .5 and above aswell as below)
+--]]
+
+local args = {
+    [1] = "Fluff",
+    [2] = "Back",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "BackFluff",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "ChestFluff",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "Claws",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "DragonClaws",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "DragonPrimary",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "DragonSecondary",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "DragonThird",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "EarFluff",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "EyeColor",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "EyeLid",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "Fat",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "Gum",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "Head",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "Hip",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "HumanoidRootPart",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "InsideEars",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "Jaw",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "JawFluff",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "LeftArm",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "LeftArmPaw",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "LeftEar",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "LeftFootPaw",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "Leftleg",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "LeftLowerArm",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "LeftLowerLeg",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "LeftShoulder",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "LeftThigh",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "LeftWing2",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "LeftWing3",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "LeftWingStart",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "LegFluff",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "Muzzle",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "Neck",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "Nose",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "OceanPrimary",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "OceanSecondary",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "Pads",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "Pupils",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "RightArm",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "RightArmPaw",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "RightEar",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "RightFootPaw",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "RightLeg",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "RightLowerArm",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "RightLowerLeg",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "RightShoulder",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "RightThigh",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "RightWing2",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "RightWing3",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "RightWingStart",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "Secondary",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "Tail5",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "TailFluff",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "Torso",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "White",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "lash",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "Tail1",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "Tail2",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "Tail3",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "Tail5",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+local args = {
+    [1] = "Fluff",
+    [2] = "LeftLeg",
+    [3] = 1
+}
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+
+local args = {
+    [1] = "Fluff",
+    [2] = "ChubbyCheeks",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+
+local args = {
+    [1] = "Fluff",
+    [2] = "Toungue2",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+
+local args = {
+    [1] = "Fluff",
+    [2] = "Toungue1",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+
+local args = {
+    [1] = "Fluff",
+    [2] = "Eyebrow2",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+
+local args = {
+    [1] = "Fluff",
+    [2] = "Eyebrow1",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+
+local args = {
+    [1] = "Fluff",
+    [2] = "Tooth",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+
+local args = {
+    [1] = "Fluff",
+    [2] = "UpperTooth",
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
+
+local args = {
+    [1] = "remove",
+    [2] = "HairF"
+}
+
+game:GetService("ReplicatedStorage").Accessories:FireServer(unpack(args))
+
+local args = {
+    [1] = "remove",
+    [2] = "TorsoF"
+}
+
+game:GetService("ReplicatedStorage").Accessories:FireServer(unpack(args))
+
+local args = {
+    [1] = "remove",
+    [2] = "PiercingsF"
+}
+
+game:GetService("ReplicatedStorage").Accessories:FireServer(unpack(args))
+
+
+local args = {
+    [1] = "remove",
+    [2] = "FeetF"
+}
+
+game:GetService("ReplicatedStorage").Accessories:FireServer(unpack(args))
