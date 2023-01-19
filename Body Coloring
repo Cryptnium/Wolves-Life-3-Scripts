@@ -1,0 +1,16 @@
+--Coloring
+
+--[[
+In part name, put the part's name (Ex: DragonPrimary)
+In rgb value, put an RGB value (Ex: 0,0,0) (Make sure to seperate each number with a ,)
+--]]
+local args = {
+    [1] = "customize",
+    [2] = {
+        [1] = "[PART_NAME]"
+    },
+    [3] = Color3.fromRGB([RGB_VALUE]),
+    [4] = "Body"
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
