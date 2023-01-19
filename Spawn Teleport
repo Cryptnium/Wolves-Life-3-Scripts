@@ -1,0 +1,10 @@
+--[[
+Teleport you to a spawn location
+In spawn name, put in a spawn's name (Ex: Adoption)
+--]]
+local args = {
+    [1] = "Spawn",
+    [2] = "SPAWN_NAME"
+}
+
+game:GetService("ReplicatedStorage").MasterKey:FireServer(unpack(args))
