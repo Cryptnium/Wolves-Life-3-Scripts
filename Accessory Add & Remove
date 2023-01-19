@@ -1,0 +1,10 @@
+--[[
+In accessory category name, put the category name. (Options: HairF, TorsoF, PiercingsF, FeetF)
+In accesssory name, put the accessories name (Ex: Spiky Punk)
+--]]
+local args = {
+    [1] = "ACCESSORY_CATEGORY_NAME",
+    [2] = "ACCESSORY_NAME"
+}
+
+game:GetService("ReplicatedStorage").Accessories:FireServer(unpack(args))
